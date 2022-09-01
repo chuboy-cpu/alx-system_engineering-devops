@@ -1,0 +1,7 @@
+rwx = 111 in binary = 7
+rw- = 110 in binary = 6
+r-x = 101 in binary = 5
+r-- = 100 in binary = 4
+-wx = 3
+-w- = 2
+--x = 1
